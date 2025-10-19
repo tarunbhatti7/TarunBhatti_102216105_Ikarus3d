@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+numpy
+scikit-learn
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+python-multipart
+Pillow
+torch
+torchvision
+tqdm
+jinja2
